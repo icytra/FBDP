@@ -3,10 +3,12 @@
 ## 作业5
 作业5内容详见文件夹`211275024_许霁烨_作业5`，文件目录树如下：
 
-├─**output**
+```python
+C:.
+├─output
 ├─src
 │  ├─main
-│  │  ├─**java**
+│  │  ├─java
 │  │  │  └─org
 │  │  │      └─example
 │  │  └─resources
@@ -19,6 +21,7 @@
     ├─generated-sources
     │  └─annotations
     └─test-classes
+```
 
 - `output`文件夹内为程序输出结果
 - `src/main/java/`文件夹内为代码及相关文件
